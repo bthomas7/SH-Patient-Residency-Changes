@@ -3,7 +3,7 @@ Geolocation Changes of Clinic Patient Base
 
 Executive Summary
 -------------
-A primary care clinic serving Nashville’s uninsured and underserved sees patients taht come from more that 80 countries and speak over 70 languages. As their population has expanded and diversified along with the city over the years, Siloam has considered opening satellite locations to better serve their patients. 
+A primary care clinic serving Nashville’s uninsured and underserved sees patients that come from more than 80 countries and speak over 70 languages. As their population has expanded and diversified along with the city over the years, Siloam has considered opening satellite locations to better serve their patients. 
 They would like to see the geographic movement of their patients since 2011 to see whether their patients’ residencies are in significantly different places. In particular, they would like to see how many patients live along the I-24 corridor and in areas, such as Smyrna/Murfreesboro, who are traveling a significant distance to come to the clinic. Answering these questions will help to justify the need for opening satellite locations to their board of directors.
 The data – including home address, language spoken, and year of first visit – will be pulled from the database that stores all information from Siloam’s EHR system, Greenway PrimeSuite. The primary challenges revolve around the patient’s address: it appears that only a patient’s current address is stored and there are a large number that have been inputted incorrectly into the EHR system.
 
