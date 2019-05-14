@@ -19,3 +19,4 @@ Due to the significant growth of the greater Nashville area and specifically the
 Data Sources
 ------------
 Clinic's EHR database
+* Data files have not been included due to the potentially sensitive data.
